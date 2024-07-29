@@ -1,11 +1,12 @@
 # 💫 About Me:
 
-🔭 I’m looking for a career in Machine Learning!<br>
-🧑🏻‍🎓 B.S. Data Theory, minor Data Engineering @ UCLA<br>
+🚀 Former NASA JPL Research Intern<br>
+🧑🏻‍🎓 B.S. Data Theory, minor Data Engineering @ **<span style="color:skyblue">UCLA</span>** <br>
+🔭 I’m looking for a career in <span style="color:lightgreen">Machine Learning</span>!<br>
 🌱 I’m currently learning MLOps<br>
-💬 Ask me about how I won a Kaggle competition!<br>
+💬 Ask me about how I won a <span style="color:skyblue">Kaggle</span> competition!<br>
 ⚡ Fun fact: I am a badminton 🏸 fanatic!<br>
-👇 Check out my LinkIn Profile!
+👇 Check out my LinkedIn Profile!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andywang0321) 
 
@@ -30,4 +31,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 👇 Check out my projects!
+## 🤔 Wondering if your question will get you <span style="color:red">cancelled</span>? Vet your question with [my A.I.-powered web-app](queryqualify.streamlit.app)!
+
+## 👇 Check out how I won 🥇 in the [Kaggle Amazon Sales Prediction Competition](https://www.kaggle.com/competitions/ucla-stats-101-c-2024-su-regression/overview)!
